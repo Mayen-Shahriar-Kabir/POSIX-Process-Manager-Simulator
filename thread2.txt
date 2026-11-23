@@ -1,0 +1,4 @@
+fork 2
+sleep 3000
+kill 4
+exit 3 7
